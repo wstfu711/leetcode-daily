@@ -9,3 +9,4 @@
 - 2023 2/1  66. Plus One
 - 2023 2/1  3. Longest Substring Without Repeating Characters(not done)
 - 2023 2/5  70. Climbing Stairs
+- 2023 2/7  744. Find Smallest Letter Greater Than Target
