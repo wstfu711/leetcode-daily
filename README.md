@@ -12,3 +12,4 @@
 - 2023 2/7  744. Find Smallest Letter Greater Than Target
 - 2023 2/8  217. Contains Duplicate
 - 2023 2/8  258. Add Digits
+- 2023 2/9  202. Happy Number
