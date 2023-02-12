@@ -14,3 +14,4 @@
 - 2023 2/8  258. Add Digits
 - 2023 2/9  202. Happy Number
 - 2023 2/11 1122. Relative Sort Array(not done)
+- 2023 2/12 2269. Find the K-Beauty of a Number
