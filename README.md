@@ -16,3 +16,4 @@
 - 2023 2/11 1122. Relative Sort Array(not done)
 - 2023 2/12 2269. Find the K-Beauty of a Number
 - 2023 2/12 151. Reverse Words in a String
+- 2023 2/13 1523. Count Odd Numbers in an Interval Range
