@@ -17,3 +17,4 @@
 - 2023 2/12 2269. Find the K-Beauty of a Number
 - 2023 2/12 151. Reverse Words in a String
 - 2023 2/13 1523. Count Odd Numbers in an Interval Range
+- 2023 2/14 67. Add Binary
