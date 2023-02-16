@@ -18,3 +18,4 @@
 - 2023 2/12 151. Reverse Words in a String
 - 2023 2/13 1523. Count Odd Numbers in an Interval Range
 - 2023 2/14 67. Add Binary
+- 2023 2/16 104. Maximum Depth of Binary Tree
