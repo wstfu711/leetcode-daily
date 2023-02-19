@@ -22,3 +22,4 @@
 - 2023 2/16 394. Decode String
 - 2023 2/18 226. Invert Binary Tree
 - 2023 2/18 2380. Time Needed to Rearrange a Binary String
+- 2023 2/19 103. Binary Tree Zigzag Level Order Traversal
