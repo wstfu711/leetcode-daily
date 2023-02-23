@@ -25,3 +25,4 @@
 - 2023 2/19 103. Binary Tree Zigzag Level Order Traversal
 - 2023 2/21 540. Single Element in a Sorted Array
 - 2023 2/22 1011. Capacity To Ship Packages Within D Days
+- 2023 2/23 2540. Minimum Common Value
