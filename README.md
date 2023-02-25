@@ -27,3 +27,4 @@
 - 2023 2/22 1011. Capacity To Ship Packages Within D Days
 - 2023 2/23 2540. Minimum Common Value
 - 2023 2/24 1624. Largest Substring Between Two Equal Characters
+- 2023 2/25 121. Best Time to Buy and Sell Stock
