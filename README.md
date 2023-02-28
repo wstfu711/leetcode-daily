@@ -30,3 +30,4 @@
 - 2023 2/25 121. Best Time to Buy and Sell Stock
 - 2023 2/26 1266. Minimum Time Visiting All Points
 - 2023 2/27 1071. Greatest Common Divisor of Strings
+- 2023 2/28 292. Nim Game
