@@ -32,3 +32,4 @@
 - 2023 2/27 1071. Greatest Common Divisor of Strings
 - 2023 2/28 292. Nim Game
 - 2023 3/1 1779. Find Nearest Point That Has the Same X or Y Coordinate
+- 2023 3/3 28. Find the Index of the First Occurrence in a String
