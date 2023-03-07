@@ -36,3 +36,4 @@
 - 2023 3/4 2554. Maximum Number of Integers to Choose From a Range I
 - 2023 3/6 1539. Kth Missing Positive Number
 - 2023 3/6 848. Shifting Letters
+- 2023 3/7 2187. Minimum Time to Complete Trips
