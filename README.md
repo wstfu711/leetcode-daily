@@ -38,3 +38,4 @@
 - 2023 3/6 848. Shifting Letters
 - 2023 3/7 2187. Minimum Time to Complete Trips
 - 2023 3/8 875. Koko Eating Bananas
+- 2023 3/9 142. Linked List Cycle II
