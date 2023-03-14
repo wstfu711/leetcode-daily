@@ -41,3 +41,4 @@
 - 2023 3/9 142. Linked List Cycle II
 - 2023 3/11 1276. Number of Burgers with No Waste of Ingredients
 - 2023 3/12 957. Prison Cells After N Days
+- 2023 3/14 129. Sum Root to Leaf Numbers
