@@ -47,3 +47,4 @@
 - 2023 3/15 1385. Find the Distance Value Between Two Arrays
 - 2023 3/16 106. Construct Binary Tree from Inorder and Postorder Traversal
 - 2023 3/17 1299. Replace Elements with Greatest Element on Right Side
+- 2023 5/1 1491. Average Salary Excluding the Minimum and Maximum Salary
