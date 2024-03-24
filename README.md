@@ -49,3 +49,4 @@
 - 2023 3/17 1299. Replace Elements with Greatest Element on Right Side
 - 2023 5/1 1491. Average Salary Excluding the Minimum and Maximum Salary
 - 2024 3/23 268. Missing Number
+- 2024 3/24 287. Find the Duplicate Number
