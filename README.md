@@ -51,3 +51,4 @@
 - 2024 3/23 268. Missing Number
 - 2024 3/24 287. Find the Duplicate Number
 - 2024 3/25 442. Find All Duplicates in an Array
+- 2024 3/26 41. First Missing Positive
