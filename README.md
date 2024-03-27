@@ -52,3 +52,4 @@
 - 2024 3/24 287. Find the Duplicate Number
 - 2024 3/25 442. Find All Duplicates in an Array
 - 2024 3/26 41. First Missing Positive
+- 2024 3/27 713. Subarray Product Less Than K
