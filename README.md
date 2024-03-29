@@ -54,3 +54,4 @@
 - 2024 3/26 41. First Missing Positive
 - 2024 3/27 713. Subarray Product Less Than K
 - 2024 3/28 2958. Length of Longest Subarray With at Most K Frequency
+- 2024 3/29 2962. Count Subarrays Where Max Element Appears at Least K Times
