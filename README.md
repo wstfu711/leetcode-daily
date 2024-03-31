@@ -55,3 +55,4 @@
 - 2024 3/27 713. Subarray Product Less Than K
 - 2024 3/28 2958. Length of Longest Subarray With at Most K Frequency
 - 2024 3/29 2962. Count Subarrays Where Max Element Appears at Least K Times
+- 2024 3/31 2444. Count Subarrays With Fixed Bounds
