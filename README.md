@@ -56,3 +56,4 @@
 - 2024 3/28 2958. Length of Longest Subarray With at Most K Frequency
 - 2024 3/29 2962. Count Subarrays Where Max Element Appears at Least K Times
 - 2024 3/31 2444. Count Subarrays With Fixed Bounds
+- 2024 4/1 1015. Smallest Integer Divisible by K
