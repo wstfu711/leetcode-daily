@@ -57,3 +57,4 @@
 - 2024 3/29 2962. Count Subarrays Where Max Element Appears at Least K Times
 - 2024 3/31 2444. Count Subarrays With Fixed Bounds
 - 2024 4/1 1015. Smallest Integer Divisible by K
+- 2024 4/4 1614. 1614. Maximum Nesting Depth of the Parentheses
