@@ -62,3 +62,4 @@
 - 2024 4/22 3110. Score of a String
 - 2024 4/29 2997. Minimum Number of Operations to Make Array XOR Equal to K
 - 2024 4/30 1915. Number of Wonderful Substrings
+- 2023 5/1 2000. Reverse Prefix of Word
