@@ -65,3 +65,4 @@
 - 2024 5/1 2000. Reverse Prefix of Word
 - 2024 5/5 237. Delete Node in a Linked List
 - 2024 5/5 2154. Keep Multiplying Found Values by Two
+- 2024 5/7 2816. Double a Number Represented as a Linked List
