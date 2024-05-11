@@ -66,3 +66,4 @@
 - 2024 5/5 237. Delete Node in a Linked List
 - 2024 5/5 2154. Keep Multiplying Found Values by Two
 - 2024 5/7 2816. Double a Number Represented as a Linked List
+- 2024 5/11 961. N-Repeated Element in Size 2N Array
