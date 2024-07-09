@@ -68,3 +68,4 @@
 - 2024 5/7 2816. Double a Number Represented as a Linked List
 - 2024 5/11 961. N-Repeated Element in Size 2N Array
 - 2024 5/13 1668. Maximum Repeating Substring
+- 2024 7/10 1701. Average Waiting Time
