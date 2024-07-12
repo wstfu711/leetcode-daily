@@ -70,3 +70,4 @@
 - 2024 5/13 1668. Maximum Repeating Substring
 - 2024 7/10 1701. Average Waiting Time
 - 2024 7/11 1598. Crawler Log Folder
+- 2024 7/12 1717. Maximum Score From Removing Substrings
