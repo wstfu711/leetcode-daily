@@ -71,3 +71,4 @@
 - 2024 7/10 1701. Average Waiting Time
 - 2024 7/11 1598. Crawler Log Folder
 - 2024 7/12 1717. Maximum Score From Removing Substrings
+- 2024 7/13 2751. Robot Collisions
