@@ -74,3 +74,4 @@
 - 2024 7/13 2751. Robot Collisions
 - 2024 7/14 566. Reshape the Matrix
 - 2024 7/20 1605. Find Valid Matrix Given Row and Column Sums
+- 2024 7/21 1791. Find Center of Star Graph
