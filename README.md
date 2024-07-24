@@ -77,3 +77,4 @@
 - 2024 7/21 1791. Find Center of Star Graph
 - 2024 7/22 2418. Sort the People
 - 2024 7/23 1636. Sort Array by Increasing Frequency
+- 2024 7/24 2191. Sort the Jumbled Numbers
