@@ -79,4 +79,5 @@
 - 2024 7/23 1636. Sort Array by Increasing Frequency
 - 2024 7/24 2191. Sort the Jumbled Numbers
 - 2024 7/25 912. Sort an Array
+- 2024 7/26 2289. Steps to Make Array Non-decreasing
 - 2024 7/27 2976. Minimum Cost to Convert String I
