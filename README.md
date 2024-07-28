@@ -81,3 +81,4 @@
 - 2024 7/25 912. Sort an Array
 - 2024 7/26 2289. Steps to Make Array Non-decreasing
 - 2024 7/27 2976. Minimum Cost to Convert String I
+- 2024 7/28 473. Matchsticks to Square
