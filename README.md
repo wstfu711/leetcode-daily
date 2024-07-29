@@ -82,3 +82,4 @@
 - 2024 7/26 2289. Steps to Make Array Non-decreasing
 - 2024 7/27 2976. Minimum Cost to Convert String I
 - 2024 7/28 473. Matchsticks to Square
+- 2024 7/29 1395. Count Number of Teams
