@@ -84,3 +84,4 @@
 - 2024 7/28 473. Matchsticks to Square
 - 2024 7/29 1395. Count Number of Teams
 - 2024 7/30 1653. Minimum Deletions to Make String Balanced
+- 2024 7/31 1105. Filling Bookcase Shelves
