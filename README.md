@@ -85,3 +85,4 @@
 - 2024 7/29 1395. Count Number of Teams
 - 2024 7/30 1653. Minimum Deletions to Make String Balanced
 - 2024 7/31 1105. Filling Bookcase Shelves
+- 2024 8/1 2678. Number of Senior Citizens
