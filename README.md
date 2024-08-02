@@ -86,3 +86,4 @@
 - 2024 7/30 1653. Minimum Deletions to Make String Balanced
 - 2024 7/31 1105. Filling Bookcase Shelves
 - 2024 8/1 2678. Number of Senior Citizens
+- 2024 8/2 2134. Minimum Swaps to Group All 1's Together II
