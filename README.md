@@ -89,3 +89,4 @@
 - 2024 8/2 2134. Minimum Swaps to Group All 1's Together II
 - 2024 8/3 1460. Make Two Arrays Equal by Reversing Subarrays
 - 2024 8/3 2364. Count Number of Bad Pairs
+- 2024 8/4 1508. Range Sum of Sorted Subarray Sums
