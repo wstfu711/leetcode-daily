@@ -92,3 +92,4 @@
 - 2024 8/4 1508. Range Sum of Sorted Subarray Sums
 - 2024 8/5 2053. Kth Distinct String in an Array
 - 2024 8/5 63. Unique Paths II
+- 2024 8/6 3016. Minimum Number of Pushes to Type Word II
