@@ -102,3 +102,4 @@
 - 2024 8/9 840. Magic Squares In Grid
 - 2024 8/9 2390. Removing Stars From a String
 - 2024 8/10 959. Regions Cut By Slashes
+- 2024 8/11 1936. Add Minimum Number of Rungs
