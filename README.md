@@ -105,3 +105,4 @@
 - 2024 8/11 1936. Add Minimum Number of Rungs
 - 2024 8/11 230. Kth Smallest Element in a BST
 - 2024 8/12 703. Kth Largest Element in a Stream
+- 2024 8/12 1053. Previous Permutation With One Swap
