@@ -107,3 +107,4 @@
 - 2024 8/12 703. Kth Largest Element in a Stream
 - 2024 8/12 1053. Previous Permutation With One Swap
 - 2024 8/13 40. Combination Sum II
+- 2024 8/14 207. Course Schedule
