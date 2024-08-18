@@ -113,3 +113,4 @@
 - 2024 8/16 624. Maximum Distance in Arrays
 - 2024 8/16 2522. Partition String Into Substrings With Values at Most K
 - 2024 8/17 1937. Maximum Number of Points with Cost
+ -2024 8/18 264. Ugly Number II
