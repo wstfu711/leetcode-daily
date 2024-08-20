@@ -115,3 +115,4 @@
 - 2024 8/17 1937. Maximum Number of Points with Cost
 - 2024 8/18 264. Ugly Number II
 - 2024 8/19 650. 2 Keys Keyboard
+- 2024 8/20 1338. Reduce Array Size to The Half
