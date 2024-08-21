@@ -118,3 +118,4 @@
 - 2024 8/20 1338. Reduce Array Size to The Half
 - 2024 8/20 189. Rotate Array
 - 2024 8/21 664. Strange Printer
+- 2024 8/21 2. Add Two Numbers
