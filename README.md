@@ -120,3 +120,4 @@
 - 2024 8/21 664. Strange Printer
 - 2024 8/21 2. Add Two Numbers
 - 2024 8/21 23. Merge k Sorted Lists
+- 2024 8/22 412. Fizz Buzz
