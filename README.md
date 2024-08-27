@@ -126,3 +126,4 @@
 - 2024 8/24 809. Expressive Words
 - 2024 8/25 145. Binary Tree Postorder Traversal
 - 2024 8/26 590. N-ary Tree Postorder Traversal
+- 2024 8/27 1530. Number of Good Leaf Nodes Pairs
