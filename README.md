@@ -129,3 +129,4 @@
 - 2024 8/27 1530. Number of Good Leaf Nodes Pairs
 - 2024 9/1 2022. Convert 1D Array Into 2D Array
 - 2024 9/1 1482. Minimum Number of Days to Make m Bouquets
+- 2024 9/2 1894. Find the Student that Will Replace the Chalk
