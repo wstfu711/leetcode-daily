@@ -131,3 +131,4 @@
 - 2024 9/1 1482. Minimum Number of Days to Make m Bouquets
 - 2024 9/2 1894. Find the Student that Will Replace the Chalk
 - 2024 9/3 1945. Sum of Digits of String After Convert
+- 2024 9/3 1750. Minimum Length of String After Deleting Similar Ends
