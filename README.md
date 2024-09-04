@@ -132,3 +132,4 @@
 - 2024 9/2 1894. Find the Student that Will Replace the Chalk
 - 2024 9/3 1945. Sum of Digits of String After Convert
 - 2024 9/3 1750. Minimum Length of String After Deleting Similar Ends
+- 2024 9/4 874. Walking Robot Simulation
