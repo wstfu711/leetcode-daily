@@ -134,3 +134,4 @@
 - 2024 9/3 1750. Minimum Length of String After Deleting Similar Ends
 - 2024 9/4 874. Walking Robot Simulation
 - 2024 9/5 2028. Find Missing Observations
+- 2024 9/6 1367. Linked List in Binary Tree
