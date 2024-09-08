@@ -135,3 +135,4 @@
 - 2024 9/4 874. Walking Robot Simulation
 - 2024 9/5 2028. Find Missing Observations
 - 2024 9/6 1367. Linked List in Binary Tree
+- 2024 9/8 725. Split Linked List in Parts
