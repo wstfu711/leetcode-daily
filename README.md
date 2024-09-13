@@ -142,3 +142,4 @@
 - 2024 9/11 2220. Minimum Bit Flips to Convert Number
 - 2024 9/11 633. Sum of Square Numbers
 - 2024 9/12 1684. Count the Number of Consistent Strings
+- 2024 9/13 1310. XOR Queries of a Subarray
