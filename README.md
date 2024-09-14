@@ -144,3 +144,4 @@
 - 2024 9/12 1684. Count the Number of Consistent Strings
 - 2024 9/13 1310. XOR Queries of a Subarray
 - 2024 9/14 2419. Longest Subarray With Maximum Bitwise AND
+- 2024 9/14 2037. Minimum Number of Moves to Seat Everyone
