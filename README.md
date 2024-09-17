@@ -147,4 +147,5 @@
 - 2024 9/14 2037. Minimum Number of Moves to Seat Everyone
 - 2024 9/15 1371. Find the Longest Substring Containing Vowels in Even Counts
 - 2024 9/15 260. Single Number III
+- 2024 9/16 539. Minimum Time Difference
 - 2024 9/17 884. Uncommon Words from Two Sentences
