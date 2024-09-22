@@ -149,3 +149,4 @@
 - 2024 9/15 260. Single Number III
 - 2024 9/16 539. Minimum Time Difference
 - 2024 9/17 884. Uncommon Words from Two Sentences
+- 2024 9/22 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum
