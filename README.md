@@ -153,3 +153,4 @@
 - 2024 9/22 1441. Build an Array With Stack Operations
 - 2024 9/23 2707. Extra Characters in a String
 - 2024 10/2 1331. Rank Transform of an Array
+- 2024 10/6 1813. Sentence Similarity III
