@@ -155,3 +155,4 @@
 - 2024 10/2 1331. Rank Transform of an Array
 - 2024 10/6 1813. Sentence Similarity III
 - 2024 10/7 2696. Minimum String Length After Removing Substrings
+- 2024 10/9 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
