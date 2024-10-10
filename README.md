@@ -157,3 +157,4 @@
 - 2024 10/7 2696. Minimum String Length After Removing Substrings
 - 2024 10/9 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
 - 2024 10/9 921. Minimum Add to Make Parentheses Valid
+- 2024 10/10 962. Maximum Width Ramp
