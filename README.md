@@ -159,3 +159,4 @@
 - 2024 10/9 921. Minimum Add to Make Parentheses Valid
 - 2024 10/10 962. Maximum Width Ramp
 - 2024 10/12 2406. Divide Intervals Into Minimum Number of Groups
+- 2024 10/12 1608. Special Array With X Elements Greater Than or Equal X
