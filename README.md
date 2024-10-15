@@ -162,3 +162,4 @@
 - 2024 10/12 1608. Special Array With X Elements Greater Than or Equal X
 - 2024 10/13 2937. Make Three Strings Equal
 - 2024 10/14 2530. Maximal Score After Applying K Operations
+- 2024 10/15 2938. Separate Black and White Balls
