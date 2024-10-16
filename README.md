@@ -163,3 +163,4 @@
 - 2024 10/13 2937. Make Three Strings Equal
 - 2024 10/14 2530. Maximal Score After Applying K Operations
 - 2024 10/15 2938. Separate Black and White Balls
+- 2024 10/16 1405. Longest Happy String
