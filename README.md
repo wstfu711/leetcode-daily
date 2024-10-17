@@ -164,3 +164,4 @@
 - 2024 10/14 2530. Maximal Score After Applying K Operations
 - 2024 10/15 2938. Separate Black and White Balls
 - 2024 10/16 1405. Longest Happy String
+- 2024 10/17 670. Maximum Swap
