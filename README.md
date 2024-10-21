@@ -170,3 +170,4 @@
 - 2024 10/20 111. Minimum Depth of Binary Tree
 - 2024 10/20 113. Path Sum II
 - 2024 10/20 61. Rotate List
+- 2024 10/21 1593. Split a String Into the Max Number of Unique Substrings
