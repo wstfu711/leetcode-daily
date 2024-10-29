@@ -173,3 +173,4 @@
 - 2024 10/21 1593. Split a String Into the Max Number of Unique Substrings
 - 2024 10/25 1233. Remove Sub-Folders from the Filesystem
 - 2024 10/28 2501. Longest Square Streak in an Array
+- 2024 10/29 2684. Maximum Number of Moves in a Grid
