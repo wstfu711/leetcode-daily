@@ -175,3 +175,4 @@
 - 2024 10/28 2501. Longest Square Streak in an Array
 - 2024 10/29 2684. Maximum Number of Moves in a Grid
 - 2024 10/29 94. Binary Tree Inorder Traversal
+- 2024 10/31 64. Minimum Path Sum
